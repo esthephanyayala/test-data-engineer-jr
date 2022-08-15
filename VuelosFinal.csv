@@ -1,0 +1,367 @@
+,ID_Pasajero,Pasajero,Edad,Cve_LA,Viaje,Clase,Precio,Ruta,Linea_Aerea
+0,576,Danielle Thompson,60,AM,1/5/2016,Economy,252,DAL-SLC,Aeromexico
+1,576,Danielle Thompson,60,AM,11/25/2016,Business,269,DAL-TUL,Aeromexico
+2,576,Danielle Thompson,60,AA,9/6/2016,Business,186,DAL-AMA,American Airlines
+3,576,Danielle Thompson,60,SW,4/22/2016,Economy,201,DAL-PHX,Southwest
+4,579,Natalie Cuevas,49,AV,5/13/2016,Economy,267,DAL-OKC,Avianca
+5,683,John Murray,28,AM,1/27/2016,First Class,190,DAL-OKC,Aeromexico
+6,683,John Murray,28,AV,2/16/2016,Economy,125,DAL-SLC,Avianca
+7,592,Brian Hunt,40,AM,11/13/2016,Business,142,DAL-OKC,Aeromexico
+8,592,Brian Hunt,40,AM,11/3/2016,Business,56,DAL-TUL,Aeromexico
+9,592,Brian Hunt,40,AA,2/22/2016,Economy,205,DAL-OKC,American Airlines
+10,592,Brian Hunt,40,AA,5/8/2016,Business,215,DAL-LGA,American Airlines
+11,592,Brian Hunt,40,AV,6/16/2016,Business,132,DAL-AMA,Avianca
+12,694,Ronald Thompson,58,AV,11/27/2016,Business,132,DAL-OKC,Avianca
+13,655,Brandy Blake,64,KL,7/12/2016,Business,241,DAL-SLC,KLM
+14,655,Brandy Blake,64,KL,2/22/2016,Business,184,DAL-AMA,KLM
+15,556,Nat Gilpin,55,UA,6/28/2016,Business,160,DAL-SLC,Otra
+16,556,Nat Gilpin,55,AM,1/20/2016,Economy,118,DAL-PHX,Aeromexico
+17,556,Nat Gilpin,55,AA,3/5/2016,Economy,261,DAL-PHX,American Airlines
+18,568,Nick Crebassa,21,DA,5/9/2016,First Class,265,DAL-ATL,Otra
+19,568,Nick Crebassa,21,DA,5/9/2016,Economy,60,DAL-AUS,Otra
+20,568,Nick Crebassa,21,SW,5/9/2016,Economy,95,DAL-AUS,Southwest
+21,568,Nick Crebassa,21,AA,6/13/2016,Business,221,DAL-GRR,American Airlines
+22,568,Nick Crebassa,21,KL,6/16/2016,First Class,183,DAL-AUS,KLM
+23,568,Nick Crebassa,21,AM,2/24/2016,Economy,178,DAL-AMA,Aeromexico
+24,581,Hannah Haley,53,AA,2/11/2016,Economy,63,DAL-AMA,American Airlines
+25,581,Hannah Haley,53,AM,8/26/2016,Business,78,DAL-HOU,Aeromexico
+26,628,Jacob Weaver,22,AA,11/24/2016,Economy,223,DAL-OKC,American Airlines
+27,666,Meredith Hall,50,AV,1/18/2016,Business,172,DAL-HOU,Avianca
+28,618,Stacey Hill,65,SW,6/12/2016,Business,89,DAL-OKC,Southwest
+29,618,Stacey Hill,65,KL,4/28/2016,Business,258,DAL-AUS,KLM
+30,618,Stacey Hill,65,AM,7/23/2016,Economy,265,DAL-LGA,Aeromexico
+31,661,Jason Barrett,33,AV,9/1/2016,Business,251,DAL-TUL,Avianca
+32,674,Eric Ball,34,AM,1/12/2016,Economy,97,DAL-AUS,Aeromexico
+33,674,Eric Ball,34,AM,1/4/2016,First Class,148,DAL-MDW,Aeromexico
+34,569,Aaron Bennett,43,AA,6/12/2016,First Class,269,DAL-OKC,American Airlines
+35,685,Alexander Blake,27,KL,7/24/2016,First Class,118,DAL-MDW,KLM
+36,685,Alexander Blake,27,KL,4/29/2016,Economy,62,DAL-AMA,KLM
+37,685,Alexander Blake,27,KL,11/6/2016,Business,162,DAL-ELP,KLM
+38,685,Alexander Blake,27,KL,10/14/2016,Business,177,DAL-SLC,KLM
+39,685,Alexander Blake,27,SW,2/14/2016,Business,265,DAL-TUL,Southwest
+40,561,Nathan Gelder,48,AA,5/21/2016,Economy,71,DAL-HOU,American Airlines
+41,561,Nathan Gelder,48,SW,9/27/2016,Business,171,DAL-MDW,Southwest
+42,561,Nathan Gelder,48,AA,3/18/2016,First Class,133,DAL-AMA,American Airlines
+43,647,Danielle Mills,35,AM,2/11/2016,Economy,253,DAL-GRR,Aeromexico
+44,621,Alexander Owens,42,KL,6/21/2016,Business,153,DAL-ELP,KLM
+45,621,Alexander Owens,42,AA,2/21/2016,Economy,133,DAL-AUS,American Airlines
+46,621,Alexander Owens,42,SW,9/4/2016,First Class,153,DAL-OKC,Southwest
+47,554,Naresj Patel,25,AA,6/11/2016,Economy,150,DAL-SLC,American Airlines
+48,554,Naresj Patel,25,DA,9/21/2016,Economy,68,DAL-AMA,Otra
+49,554,Naresj Patel,25,AM,7/13/2016,First Class,233,DAL-HOU,Aeromexico
+50,554,Naresj Patel,25,AA,3/12/2016,Economy,68,DAL-GRR,American Airlines
+51,653,Tammy Mays,35,SW,6/29/2016,First Class,207,DAL-AUS,Southwest
+52,653,Tammy Mays,35,AA,5/6/2016,First Class,195,DAL-ELP,American Airlines
+53,597,Timothy Sanchez,44,SW,4/12/2016,Business,202,DAL-PHX,Southwest
+54,597,Timothy Sanchez,44,SW,10/9/2016,Economy,201,DAL-AUS,Southwest
+55,652,Daisy Young,50,KL,4/17/2016,Economy,177,DAL-GRR,KLM
+56,668,Alejandro Lowe,72,KL,1/11/2016,First Class,200,DAL-OKC,KLM
+57,680,Jessica Ross,47,KL,3/3/2016,Business,235,DAL-TUL,KLM
+58,680,Jessica Ross,47,KL,11/9/2016,Economy,68,DAL-AUS,KLM
+59,607,Amy Elliott,50,AA,9/20/2016,Business,135,DAL-ATL,American Airlines
+60,607,Amy Elliott,50,SW,8/1/2016,First Class,127,DAL-AMA,Southwest
+61,656,Sean Martin,57,SW,2/17/2016,Economy,134,DAL-MDW,Southwest
+62,656,Sean Martin,57,AM,9/24/2016,First Class,125,DAL-MDW,Aeromexico
+63,649,Monique Smith,52,AA,7/29/2016,Economy,132,DAL-PHX,American Airlines
+64,649,Monique Smith,52,KL,2/16/2016,First Class,214,DAL-SLC,KLM
+65,649,Monique Smith,52,KL,9/14/2016,Business,191,DAL-AUS,KLM
+66,649,Monique Smith,52,AV,4/27/2016,First Class,207,DAL-PHX,Avianca
+67,639,Robert Reynolds,34,AA,6/23/2016,Business,216,DAL-AUS,American Airlines
+68,639,Robert Reynolds,34,AM,1/19/2016,First Class,218,DAL-SLC,Aeromexico
+69,601,Courtney Mosley,28,SW,10/6/2016,Economy,198,DAL-AUS,Southwest
+70,644,Olivia Henry,60,AV,1/17/2016,Business,117,DAL-SLC,Avianca
+71,644,Olivia Henry,60,SW,10/15/2016,Economy,54,DAL-MDW,Southwest
+72,645,Christopher Quinn,66,AV,9/19/2016,First Class,252,DAL-AUS,Avianca
+73,605,Kimberly Preston,64,AM,4/1/2016,First Class,141,DAL-AUS,Aeromexico
+74,650,Dana Davis,39,AA,11/18/2016,Business,74,DAL-MDW,American Airlines
+75,610,Linda Hardin,36,AV,6/25/2016,Economy,236,DAL-SLC,Avianca
+76,695,Carla Murphy,56,AV,6/26/2016,First Class,190,DAL-PHX,Avianca
+77,695,Carla Murphy,56,KL,7/17/2016,Economy,177,DAL-HOU,KLM
+78,630,Brittany Barnes,35,AA,10/5/2016,Business,180,DAL-GRR,American Airlines
+79,563,Neil Ducich,32,UA,11/22/2016,Economy,92,DAL-AMA,Otra
+80,563,Neil Ducich,32,SW,7/16/2016,Business,185,DAL-ATL,Southwest
+81,563,Neil Ducich,32,KL,3/12/2016,First Class,135,DAL-GRR,KLM
+82,679,David Butler,20,SW,4/9/2016,Business,224,DAL-SLC,Southwest
+83,679,David Butler,20,AM,7/16/2016,First Class,183,DAL-SLC,Aeromexico
+84,679,David Butler,20,AV,1/19/2016,Economy,238,DAL-LGA,Avianca
+85,565,Neil Knudson,37,UA,11/28/2016,Economy,61,DAL-AMA,Otra
+86,608,Amber Hernandez,42,SW,7/9/2016,Business,100,DAL-LGA,Southwest
+87,608,Amber Hernandez,42,AV,3/5/2016,Business,191,DAL-LGA,Avianca
+88,608,Amber Hernandez,42,AV,4/1/2016,First Class,195,DAL-SLC,Avianca
+89,608,Amber Hernandez,42,AA,11/11/2016,Business,216,DAL-LGA,American Airlines
+90,595,Michael Bishop,69,KL,1/11/2016,First Class,88,DAL-OKC,KLM
+91,595,Michael Bishop,69,AM,9/14/2016,First Class,187,DAL-SLC,Aeromexico
+92,632,Jeremiah Byrd,26,AV,9/12/2016,Business,139,DAL-HOU,Avianca
+93,632,Jeremiah Byrd,26,AA,10/26/2016,Economy,55,DAL-AUS,American Airlines
+94,632,Jeremiah Byrd,26,AA,2/24/2016,Economy,114,DAL-OKC,American Airlines
+95,632,Jeremiah Byrd,26,AA,7/6/2016,Economy,56,DAL-SLC,American Airlines
+96,584,Amanda Lee,56,KL,2/4/2016,Economy,258,DAL-SLC,KLM
+97,584,Amanda Lee,56,SW,3/25/2016,Economy,199,DAL-SLC,Southwest
+98,688,Brendan Williamson,60,AM,7/3/2016,Economy,242,DAL-OKC,Aeromexico
+99,657,Jessica Norris,71,KL,4/27/2016,Business,129,DAL-TUL,KLM
+100,657,Jessica Norris,71,SW,7/4/2016,Business,61,DAL-TUL,Southwest
+101,599,Franklin Cardenas,57,AV,1/18/2016,Economy,79,DAL-MDW,Avianca
+102,599,Franklin Cardenas,57,AV,8/4/2016,First Class,71,DAL-HOU,Avianca
+103,599,Franklin Cardenas,57,AV,7/6/2016,First Class,178,DAL-ATL,Avianca
+104,599,Franklin Cardenas,57,AV,8/10/2016,Business,253,DAL-ELP,Avianca
+105,609,Grace Barnett,50,SW,7/4/2016,First Class,228,DAL-AMA,Southwest
+106,620,Krista Li,64,AA,2/18/2016,Business,58,DAL-AMA,American Airlines
+107,573,Mrs. Courtney Day,40,AA,2/28/2016,First Class,165,DAL-MDW,American Airlines
+108,571,Travis Thomas,46,AM,3/26/2016,Business,269,DAL-GRR,Aeromexico
+109,588,James Cohen,24,AV,4/20/2016,Economy,203,DAL-OKC,Avianca
+110,646,Ebony Daugherty,38,SW,1/21/2016,Business,71,DAL-HOU,Southwest
+111,624,Christopher Duncan,68,AA,7/3/2016,Business,114,DAL-ELP,American Airlines
+112,624,Christopher Duncan,68,AV,3/29/2016,Business,236,DAL-PHX,Avianca
+113,624,Christopher Duncan,68,AM,6/22/2016,Economy,207,DAL-LGA,Aeromexico
+114,663,Ryan Johnson,70,KL,2/19/2016,Business,62,DAL-HOU,KLM
+115,641,Crystal Mcgee,66,AV,4/17/2016,Economy,71,DAL-GRR,Avianca
+116,641,Crystal Mcgee,66,AV,2/16/2016,Economy,52,DAL-PHX,Avianca
+117,641,Crystal Mcgee,66,AV,7/14/2016,Economy,149,DAL-MDW,Avianca
+118,585,Katelyn Hendricks,49,KL,5/16/2016,Business,75,DAL-SLC,KLM
+119,585,Katelyn Hendricks,49,AA,4/18/2016,Economy,140,DAL-LGA,American Airlines
+120,626,Jeffrey Callahan,60,AV,11/18/2016,Business,107,DAL-ATL,Avianca
+121,626,Jeffrey Callahan,60,AM,1/13/2016,First Class,194,DAL-AUS,Aeromexico
+122,626,Jeffrey Callahan,60,AA,2/5/2016,Business,181,DAL-OKC,American Airlines
+123,689,Michael Flores,46,AM,8/28/2016,First Class,67,DAL-AMA,Aeromexico
+124,689,Michael Flores,46,SW,1/22/2016,Economy,242,DAL-TUL,Southwest
+125,689,Michael Flores,46,AA,7/29/2016,Business,157,DAL-OKC,American Airlines
+126,689,Michael Flores,46,KL,3/12/2016,Economy,52,DAL-HOU,KLM
+127,662,Gabriella Moore,35,AV,9/11/2016,First Class,203,DAL-AMA,Avianca
+128,662,Gabriella Moore,35,AA,6/15/2016,Economy,199,DAL-MDW,American Airlines
+129,696,Michael Nguyen,66,KL,6/12/2016,Economy,233,DAL-PHX,KLM
+130,696,Michael Nguyen,66,SW,5/7/2016,Business,266,DAL-GRR,Southwest
+131,696,Michael Nguyen,66,AM,4/15/2016,First Class,104,DAL-TUL,Aeromexico
+132,591,Jenna Barnett MD,25,AM,11/25/2016,Business,176,DAL-ELP,Aeromexico
+133,557,Natalie DeCherney,63,SW,6/25/2016,Economy,65,DAL-OKC,Southwest
+134,557,Natalie DeCherney,63,SW,12/2/2016,Economy,126,DAL-MDW,Southwest
+135,557,Natalie DeCherney,63,AA,6/25/2016,Business,121,DAL-HOU,American Airlines
+136,557,Natalie DeCherney,63,AA,6/25/2016,Economy,83,DAL-GRR,American Airlines
+137,557,Natalie DeCherney,63,AA,6/25/2016,Economy,141,DAL-TUL,American Airlines
+138,557,Natalie DeCherney,63,SW,6/25/2016,Economy,66,DAL-AMA,Southwest
+139,557,Natalie DeCherney,63,DA,12/2/2016,Economy,122,DAL-AUS,Otra
+140,557,Natalie DeCherney,63,DA,6/25/2016,Business,146,DAL-LGA,Otra
+141,557,Natalie DeCherney,63,UA,12/2/2016,Economy,152,DAL-PHX,Otra
+142,557,Natalie DeCherney,63,AM,6/26/2016,Economy,245,DAL-ELP,Aeromexico
+143,557,Natalie DeCherney,63,AA,9/7/2016,Economy,196,DAL-HOU,American Airlines
+144,557,Natalie DeCherney,63,AM,4/15/2016,Business,236,DAL-AUS,Aeromexico
+145,557,Natalie DeCherney,63,AV,4/29/2016,Business,173,DAL-ELP,Avianca
+146,578,Mackenzie Ford,65,KL,8/8/2016,First Class,186,DAL-TUL,KLM
+147,578,Mackenzie Ford,65,SW,11/6/2016,First Class,92,DAL-HOU,Southwest
+148,578,Mackenzie Ford,65,SW,8/29/2016,First Class,71,DAL-ELP,Southwest
+149,615,Jessica Ashley,52,SW,4/24/2016,First Class,70,DAL-SLC,Southwest
+150,687,Janet Ali,30,KL,8/26/2016,Business,227,DAL-ATL,KLM
+151,687,Janet Ali,30,AA,7/10/2016,Economy,126,DAL-LGA,American Airlines
+152,687,Janet Ali,30,AV,9/3/2016,Business,59,DAL-HOU,Avianca
+153,687,Janet Ali,30,AM,7/5/2016,Business,239,DAL-MDW,Aeromexico
+154,587,Lauren Joseph,31,AV,7/2/2016,First Class,53,DAL-ATL,Avianca
+155,677,Jonathan Ryan,40,KL,8/10/2016,Business,184,DAL-TUL,KLM
+156,677,Jonathan Ryan,40,KL,6/14/2016,Economy,192,DAL-AUS,KLM
+157,677,Jonathan Ryan,40,AA,7/3/2016,Economy,171,DAL-TUL,American Airlines
+158,633,Charles Schwartz,68,AM,10/16/2016,First Class,214,DAL-TUL,Aeromexico
+159,635,Christopher Wilson,26,SW,8/7/2016,Economy,199,DAL-LGA,Southwest
+160,664,John Gregory,36,AA,1/3/2016,Business,102,DAL-ATL,American Airlines
+161,575,Joseph Medina,25,AM,10/8/2016,Economy,173,DAL-SLC,Aeromexico
+162,575,Joseph Medina,25,SW,9/9/2016,Economy,176,DAL-TUL,Southwest
+163,604,Cheryl Neal,66,AV,11/18/2016,First Class,245,DAL-TUL,Avianca
+164,604,Cheryl Neal,66,AA,7/11/2016,First Class,239,DAL-SLC,American Airlines
+165,559,Natalie Webber,57,SW,11/8/2016,Economy,63,DAL-GRR,Southwest
+166,559,Natalie Webber,57,AA,11/8/2016,Economy,158,DAL-ELP,American Airlines
+167,559,Natalie Webber,57,AV,10/19/2016,Economy,181,DAL-HOU,Avianca
+168,690,Nicholas Buckley,22,AM,2/22/2016,Business,218,DAL-ATL,Aeromexico
+169,690,Nicholas Buckley,22,SW,5/18/2016,First Class,214,DAL-MDW,Southwest
+170,667,Matthew Lopez,58,AM,2/27/2016,Business,76,DAL-HOU,Aeromexico
+171,667,Matthew Lopez,58,AV,5/11/2016,First Class,108,DAL-AMA,Avianca
+172,667,Matthew Lopez,58,AA,7/6/2016,Business,80,DAL-MDW,American Airlines
+173,675,Haley Watkins,57,AV,6/24/2016,Business,149,DAL-GRR,Avianca
+174,623,Danielle Castillo,20,AM,3/2/2016,Business,264,DAL-AUS,Aeromexico
+175,623,Danielle Castillo,20,SW,11/17/2016,First Class,211,DAL-MDW,Southwest
+176,623,Danielle Castillo,20,SW,6/23/2016,Business,97,DAL-LGA,Southwest
+177,623,Danielle Castillo,20,AA,10/10/2016,Economy,78,DAL-OKC,American Airlines
+178,670,Terrence Walker,55,SW,5/18/2016,First Class,87,DAL-OKC,Southwest
+179,670,Terrence Walker,55,KL,1/15/2016,Economy,73,DAL-MDW,KLM
+180,670,Terrence Walker,55,SW,2/27/2016,First Class,199,DAL-LGA,Southwest
+181,670,Terrence Walker,55,SW,4/3/2016,First Class,103,DAL-TUL,Southwest
+182,553,Nancy Lomonaco,34,SW,9/10/2016,Economy,60,DAL-MDW,Southwest
+183,553,Nancy Lomonaco,34,SW,11/18/2016,Business,81,DAL-PHX,Southwest
+184,659,Whitney Roth,40,AA,3/27/2016,Business,157,DAL-AUS,American Airlines
+185,659,Whitney Roth,40,KL,9/2/2016,First Class,81,DAL-ATL,KLM
+186,659,Whitney Roth,40,AM,7/7/2016,Business,177,DAL-HOU,Aeromexico
+187,659,Whitney Roth,40,AM,10/8/2016,Economy,151,DAL-TUL,Aeromexico
+188,574,Brian Reed,54,SW,9/27/2016,Economy,100,DAL-OKC,Southwest
+189,574,Brian Reed,54,AA,9/7/2016,First Class,108,DAL-AUS,American Airlines
+190,593,Paul Johnson,25,SW,7/16/2016,Economy,147,DAL-SLC,Southwest
+191,593,Paul Johnson,25,SW,11/23/2016,Business,59,DAL-OKC,Southwest
+192,642,Wendy Cooper DVM,68,KL,10/13/2016,Economy,111,DAL-SLC,KLM
+193,642,Wendy Cooper DVM,68,KL,1/1/2016,First Class,204,DAL-TUL,KLM
+194,642,Wendy Cooper DVM,68,AA,1/16/2016,Economy,191,DAL-ELP,American Airlines
+195,642,Wendy Cooper DVM,68,AA,8/4/2016,First Class,58,DAL-AMA,American Airlines
+196,580,Amanda Turner,47,AV,2/20/2016,Economy,225,DAL-TUL,Avianca
+197,580,Amanda Turner,47,AV,10/14/2016,Business,171,DAL-ELP,Avianca
+198,580,Amanda Turner,47,AV,4/20/2016,First Class,254,DAL-PHX,Avianca
+199,638,Melissa Sullivan DDS,70,AA,4/18/2016,Economy,198,DAL-AMA,American Airlines
+200,596,Javier Olson,71,KL,7/5/2017,First Class,167,DAL-MDW,KLM
+201,625,Monique Ramirez,35,AM,5/24/2017,Business,194,DAL-AMA,Aeromexico
+202,637,Rob Beeghly,29,SW,1/4/2017,Economy,86,DAL-ATL,Southwest
+203,637,Rob Beeghly,29,AA,1/4/2017,Business,169,DAL-LGA,American Airlines
+204,637,Rob Beeghly,29,KL,6/5/2017,First Class,234,DAL-GRR,KLM
+205,637,Rob Beeghly,29,AA,6/18/2017,Business,198,DAL-AUS,American Airlines
+206,637,Rob Beeghly,29,KL,6/10/2017,First Class,228,DAL-TUL,KLM
+207,637,Rob Beeghly,29,SW,8/3/2017,First Class,104,DAL-SLC,Southwest
+208,637,Rob Beeghly,29,KL,7/10/2017,Economy,250,DAL-PHX,KLM
+209,637,Rob Beeghly,29,KL,6/8/2017,Business,167,DAL-ATL,KLM
+210,637,Rob Beeghly,29,AV,1/17/2017,First Class,137,DAL-SLC,Avianca
+211,637,Rob Beeghly,29,KL,11/6/2017,Business,88,DAL-LGA,KLM
+212,637,Rob Beeghly,29,KL,2/6/2017,Economy,178,DAL-GRR,KLM
+213,637,Rob Beeghly,29,AV,2/9/2017,Business,140,DAL-MDW,Avianca
+214,730,Timothy Moore,21,KL,11/17/2017,First Class,102,DAL-LGA,KLM
+215,730,Timothy Moore,21,AM,4/17/2017,Business,262,DAL-ELP,Aeromexico
+216,730,Timothy Moore,21,AA,4/3/2017,Economy,119,DAL-GRR,American Airlines
+217,730,Timothy Moore,21,KL,8/27/2017,First Class,224,DAL-LGA,KLM
+218,730,Timothy Moore,21,SW,3/1/2017,First Class,153,DAL-PHX,Southwest
+219,730,Timothy Moore,21,SW,8/19/2017,First Class,62,DAL-HOU,Southwest
+220,682,Scot Wooten,72,UA,1/1/2017,Economy,78,DAL-HOU,Otra
+221,682,Scot Wooten,72,UA,1/1/2017,Economy,90,DAL-PHX,Otra
+222,682,Scot Wooten,72,SW,1/1/2017,Economy,72,DAL-AMA,Southwest
+223,682,Scot Wooten,72,AA,1/1/2017,Business,115,DAL-LGA,American Airlines
+224,682,Scot Wooten,72,DA,1/1/2017,Economy,149,DAL-PHX,Otra
+225,682,Scot Wooten,72,AV,1/4/2017,Economy,91,DAL-HOU,Avianca
+226,682,Scot Wooten,72,AV,8/7/2017,Economy,235,DAL-OKC,Avianca
+227,682,Scot Wooten,72,AM,7/9/2017,First Class,152,DAL-TUL,Aeromexico
+228,682,Scot Wooten,72,SW,6/12/2017,Business,101,DAL-ATL,Southwest
+229,682,Scot Wooten,72,SW,2/5/2017,Economy,186,DAL-AMA,Southwest
+230,682,Scot Wooten,72,KL,9/20/2017,Economy,55,DAL-ATL,KLM
+231,682,Scot Wooten,72,KL,4/27/2017,Economy,237,DAL-OKC,KLM
+232,682,Scot Wooten,72,KL,6/28/2017,First Class,70,DAL-AMA,KLM
+233,682,Scot Wooten,72,AV,7/23/2017,First Class,101,DAL-OKC,Avianca
+234,682,Scot Wooten,72,AA,5/9/2017,Business,150,DAL-PHX,American Airlines
+235,682,Scot Wooten,72,AM,2/27/2017,First Class,58,DAL-ATL,Aeromexico
+236,682,Scot Wooten,72,SW,9/27/2017,First Class,61,DAL-LGA,Southwest
+237,682,Scot Wooten,72,AA,3/8/2017,Business,55,DAL-AUS,American Airlines
+238,682,Scot Wooten,72,AM,7/12/2017,Economy,208,DAL-PHX,Aeromexico
+239,682,Scot Wooten,72,SW,2/3/2017,Economy,93,DAL-TUL,Southwest
+240,682,Scot Wooten,72,AM,10/19/2017,Economy,217,DAL-AUS,Aeromexico
+241,682,Scot Wooten,72,AV,3/15/2017,First Class,114,DAL-HOU,Avianca
+242,682,Scot Wooten,72,SW,2/4/2017,Economy,93,DAL-ELP,Southwest
+243,682,Scot Wooten,72,AA,2/8/2017,Economy,205,DAL-ATL,American Airlines
+244,682,Scot Wooten,72,SW,10/27/2017,Business,120,DAL-PHX,Southwest
+245,682,Scot Wooten,72,AV,2/7/2017,Business,101,DAL-ELP,Avianca
+246,682,Scot Wooten,72,KL,3/20/2017,Economy,191,DAL-AMA,KLM
+247,682,Scot Wooten,72,KL,6/19/2017,Economy,64,DAL-ELP,KLM
+248,682,Scot Wooten,72,AM,10/14/2017,Business,132,DAL-SLC,Aeromexico
+249,682,Scot Wooten,72,AM,8/24/2017,Business,123,DAL-TUL,Aeromexico
+250,682,Scot Wooten,72,AM,8/4/2017,First Class,72,DAL-MDW,Aeromexico
+251,701,Linda Walker,72,AV,8/29/2017,Economy,126,DAL-GRR,Avianca
+252,701,Linda Walker,72,KL,6/3/2017,First Class,95,DAL-AMA,KLM
+253,701,Linda Walker,72,KL,5/13/2017,First Class,257,DAL-TUL,KLM
+254,701,Linda Walker,72,SW,11/28/2017,Business,220,DAL-GRR,Southwest
+255,701,Linda Walker,72,AA,4/11/2017,First Class,255,DAL-AUS,American Airlines
+256,619,Timothy Adkins,66,AV,9/7/2017,First Class,163,DAL-SLC,Avianca
+257,619,Timothy Adkins,66,AV,11/15/2017,Economy,150,DAL-OKC,Avianca
+258,714,Sheena Morgan,56,KL,9/21/2017,Business,266,DAL-AUS,KLM
+259,714,Sheena Morgan,56,SW,5/9/2017,Business,165,DAL-SLC,Southwest
+260,698,Bridget Lopez,27,SW,1/27/2017,Business,162,DAL-ATL,Southwest
+261,698,Bridget Lopez,27,AV,6/19/2017,Business,89,DAL-MDW,Avianca
+262,723,Henry Griffin,68,AA,11/27/2017,Business,232,DAL-HOU,American Airlines
+263,38,Anemone Ratner,39,DA,1/2/2017,Economy,84,DAL-AUS,Otra
+264,38,Anemone Ratner,39,UA,1/2/2017,Economy,78,DAL-PHX,Otra
+265,38,Anemone Ratner,39,SW,1/2/2017,Business,102,DAL-SEA,Southwest
+266,38,Anemone Ratner,39,SW,1/2/2017,First Class,222,DAL-HOU,Southwest
+267,38,Anemone Ratner,39,AA,1/2/2017,Economy,104,DAL-OKC,American Airlines
+268,38,Anemone Ratner,39,AA,1/2/2017,Economy,141,DAL-TUL,American Airlines
+269,38,Anemone Ratner,39,AA,7/24/2017,Economy,125,DAL-PHX,American Airlines
+270,38,Anemone Ratner,39,AA,7/26/2017,Economy,248,DAL-AUS,American Airlines
+271,38,Anemone Ratner,39,KL,6/16/2017,Business,55,DAL-MDW,KLM
+272,38,Anemone Ratner,39,SW,8/10/2017,First Class,54,DAL-OKC,Southwest
+273,38,Anemone Ratner,39,AM,1/21/2017,Business,61,DAL-LGA,Aeromexico
+274,38,Anemone Ratner,39,SW,10/25/2017,First Class,166,DAL-OKC,Southwest
+275,38,Anemone Ratner,39,KL,7/23/2017,Business,242,DAL-SLC,KLM
+276,38,Anemone Ratner,39,SW,10/16/2017,Economy,97,DAL-TUL,Southwest
+277,38,Anemone Ratner,39,AV,9/16/2017,First Class,79,DAL-AUS,Avianca
+278,38,Anemone Ratner,39,AV,3/12/2017,Economy,226,DAL-GRR,Avianca
+279,38,Anemone Ratner,39,AA,10/18/2017,Business,112,DAL-LGA,American Airlines
+280,38,Anemone Ratner,39,AM,5/16/2017,First Class,164,DAL-LGA,Aeromexico
+281,38,Anemone Ratner,39,AM,7/1/2017,Business,168,DAL-TUL,Aeromexico
+282,38,Anemone Ratner,39,AM,10/13/2017,First Class,265,DAL-TUL,Aeromexico
+283,709,Daniel Rodriguez,49,AM,5/5/2017,Business,193,DAL-GRR,Aeromexico
+284,709,Daniel Rodriguez,49,AV,10/11/2017,First Class,247,DAL-PHX,Avianca
+285,709,Daniel Rodriguez,49,KL,6/22/2017,Business,159,DAL-ELP,KLM
+286,709,Daniel Rodriguez,49,KL,8/10/2017,Business,166,DAL-LGA,KLM
+287,709,Daniel Rodriguez,49,KL,10/6/2017,Economy,120,DAL-MDW,KLM
+288,709,Daniel Rodriguez,49,AA,4/17/2017,First Class,210,DAL-ATL,American Airlines
+289,566,Neola Schneider,75,SW,1/4/2017,Business,93,DAL-ELP,Southwest
+290,566,Neola Schneider,75,AV,8/22/2017,Economy,70,DAL-TUL,Avianca
+291,566,Neola Schneider,75,AM,9/13/2017,Economy,56,DAL-AMA,Aeromexico
+292,693,Shahid Shariari,67,UA,1/3/2017,Economy,116,DAL-PHX,Otra
+293,693,Shahid Shariari,67,SW,1/3/2017,Economy,116,DAL-MDW,Southwest
+294,693,Shahid Shariari,67,SW,1/26/2017,First Class,185,DAL-PHX,Southwest
+295,693,Shahid Shariari,67,KL,10/27/2017,Business,63,DAL-AUS,KLM
+296,693,Shahid Shariari,67,SW,5/27/2017,Economy,84,DAL-AUS,Southwest
+297,693,Shahid Shariari,67,AV,4/28/2017,Economy,172,DAL-AUS,Avianca
+298,693,Shahid Shariari,67,AV,10/6/2017,Business,233,DAL-LGA,Avianca
+299,693,Shahid Shariari,67,AM,5/3/2017,Business,121,DAL-OKC,Aeromexico
+300,693,Shahid Shariari,67,SW,11/10/2017,First Class,82,DAL-LGA,Southwest
+301,693,Shahid Shariari,67,AM,9/19/2017,First Class,250,DAL-AUS,Aeromexico
+302,693,Shahid Shariari,67,AV,8/1/2017,Economy,153,DAL-TUL,Avianca
+303,693,Shahid Shariari,67,AM,8/15/2017,Business,206,DAL-MDW,Aeromexico
+304,693,Shahid Shariari,67,AM,4/10/2017,First Class,245,DAL-GRR,Aeromexico
+305,693,Shahid Shariari,67,AM,6/2/2017,First Class,55,DAL-TUL,Aeromexico
+306,550,Christopher Bridges,54,KL,8/20/2017,Economy,219,DAL-SLC,KLM
+307,550,Christopher Bridges,54,SW,8/15/2017,First Class,237,DAL-SLC,Southwest
+308,550,Christopher Bridges,54,AV,8/8/2017,Economy,110,DAL-GRR,Avianca
+309,671,David Lee,62,KL,7/16/2017,First Class,223,DAL-AMA,KLM
+310,671,David Lee,62,AM,4/6/2017,Business,113,DAL-ELP,Aeromexico
+311,671,David Lee,62,AM,7/10/2017,Economy,186,DAL-OKC,Aeromexico
+312,671,David Lee,62,AM,5/10/2017,Business,158,DAL-GRR,Aeromexico
+313,560,Carrie Moody,37,AM,5/21/2017,Economy,236,DAL-AMA,Aeromexico
+314,560,Carrie Moody,37,SW,2/24/2017,Business,215,DAL-ELP,Southwest
+315,560,Carrie Moody,37,SW,7/2/2017,Business,125,DAL-MDW,Southwest
+316,560,Carrie Moody,37,AV,2/26/2017,First Class,160,DAL-OKC,Avianca
+317,560,Carrie Moody,37,AA,5/13/2017,First Class,149,DAL-ATL,American Airlines
+318,669,Jason Crane,32,KL,1/29/2017,Economy,131,DAL-HOU,KLM
+319,669,Jason Crane,32,SW,7/2/2017,Business,169,DAL-HOU,Southwest
+320,669,Jason Crane,32,AV,1/18/2017,Economy,83,DAL-HOU,Avianca
+321,669,Jason Crane,32,AA,2/3/2017,Business,95,DAL-ELP,American Airlines
+322,669,Jason Crane,32,AV,2/14/2017,First Class,78,DAL-TUL,Avianca
+323,669,Jason Crane,32,AM,7/6/2017,Business,201,DAL-ATL,Aeromexico
+324,669,Jason Crane,32,AA,5/17/2017,Economy,116,DAL-HOU,American Airlines
+325,669,Jason Crane,32,AM,6/5/2017,First Class,85,DAL-AMA,Aeromexico
+326,627,Jordan English,52,KL,1/9/2017,Business,221,DAL-GRR,KLM
+327,627,Jordan English,52,AM,7/8/2017,Business,62,DAL-ELP,Aeromexico
+328,627,Jordan English,52,AA,5/8/2017,Economy,254,DAL-MDW,American Airlines
+329,627,Jordan English,52,AM,3/10/2017,First Class,165,DAL-MDW,Aeromexico
+330,627,Jordan English,52,KL,11/26/2017,Economy,167,DAL-ELP,KLM
+331,627,Jordan English,52,AA,10/13/2017,Business,240,DAL-PHX,American Airlines
+332,627,Jordan English,52,AM,10/10/2017,Business,204,DAL-AMA,Aeromexico
+333,627,Jordan English,52,AA,7/20/2017,First Class,242,DAL-LGA,American Airlines
+334,627,Jordan English,52,SW,1/14/2017,Business,180,DAL-MDW,Southwest
+335,627,Jordan English,52,SW,4/29/2017,Economy,162,DAL-SLC,Southwest
+336,627,Jordan English,52,SW,8/16/2017,Economy,229,DAL-TUL,Southwest
+337,712,Scott Knox,46,KL,7/24/2017,First Class,214,DAL-ATL,KLM
+338,712,Scott Knox,46,AV,2/22/2017,Business,189,DAL-MDW,Avianca
+339,712,Scott Knox,46,SW,1/23/2017,Business,163,DAL-AMA,Southwest
+340,712,Scott Knox,46,KL,8/2/2017,Business,121,DAL-AMA,KLM
+341,712,Scott Knox,46,AA,8/26/2017,First Class,260,DAL-OKC,American Airlines
+342,712,Scott Knox,46,AM,11/26/2017,Economy,179,DAL-OKC,Aeromexico
+343,712,Scott Knox,46,KL,8/11/2017,First Class,204,DAL-AMA,KLM
+344,712,Scott Knox,46,AA,8/12/2017,Business,227,DAL-SLC,American Airlines
+345,712,Scott Knox,46,AM,11/4/2017,Economy,129,DAL-TUL,Aeromexico
+346,716,Kelly Johnson,36,AA,8/19/2017,Business,153,DAL-SLC,American Airlines
+347,191,Dan Reichenbach,55,SW,1/2/2017,Economy,62,DAL-LGA,Southwest
+348,191,Dan Reichenbach,55,SW,1/2/2017,Economy,81,DAL-MDW,Southwest
+349,191,Dan Reichenbach,55,KL,3/14/2017,Economy,73,DAL-PHX,KLM
+350,191,Dan Reichenbach,55,KL,6/17/2017,Business,123,DAL-TUL,KLM
+351,191,Dan Reichenbach,55,AM,1/28/2017,First Class,52,DAL-ELP,Aeromexico
+352,191,Dan Reichenbach,55,SW,5/3/2017,Business,268,DAL-PHX,Southwest
+353,191,Dan Reichenbach,55,AM,5/10/2017,First Class,123,DAL-MDW,Aeromexico
+354,729,Kendra Daniel,59,AV,9/1/2017,First Class,166,DAL-LGA,Avianca
+355,729,Kendra Daniel,59,AA,6/27/2017,Economy,119,DAL-AMA,American Airlines
+356,658,April Wiggins,21,SW,7/28/2017,Business,142,DAL-LGA,Southwest
+357,658,April Wiggins,21,AV,1/7/2017,First Class,178,DAL-AMA,Avianca
+358,402,Julia Barnett,33,SW,1/4/2017,First Class,237,DAL-ATL,Southwest
+359,402,Julia Barnett,33,AM,11/17/2017,Business,259,DAL-SLC,Aeromexico
+360,402,Julia Barnett,33,SW,8/29/2017,Business,229,DAL-SLC,Southwest
+361,715,Justin Martin,48,SW,10/24/2017,First Class,204,DAL-ATL,Southwest
+362,715,Justin Martin,48,SW,11/14/2017,Economy,167,DAL-AUS,Southwest
+363,715,Justin Martin,48,AM,11/16/2017,First Class,81,DAL-ATL,Aeromexico
+364,715,Justin Martin,48,SW,11/24/2017,First Class,210,DAL-OKC,Southwest
+365,715,Justin Martin,48,AA,2/4/2017,Business,79,DAL-AUS,American Airlines
